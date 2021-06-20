@@ -1,0 +1,16 @@
+Comience elaborando una introducción, la cual nos acerque a conocer detalles globales de la organización, la necesidad o problema sobre el cual se quiere accionar, y cualquier detalle relevante que nos acerque a un buen entendimiento del Plan de Proyecto que vamos a elaborar (situación actual).
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+El Ministerio de Trabajo de la Nación necesita desarrollar una app de escritorio que se instalará en netbooks, para luego ser distribuidas a los Inspectores.
+Esto permitirá a los Inspectores hacer relevamientos de trabajo en negro en las Empresas.
+
+La App deberá permitir mínimamente:
+
+• Desde el Ministerio de Trabajo podrán hacer seguimiento, informes y estadísticas sobre los resultados cargados por los Inspectores mediante la app web que utilizan diariamente.
+• Gestionar las adquisiciones de las netbooks y módems, para luego distribuirlas en las Delegaciones Regionales (46).
+
+Comentarios del Sponsor:
+
+- El alcance del proyecto NO podrá variar. Todo lo solicitado debe estar incluido.
+- La seguridad de los datos es muy importante para el Ministerio de Trabajo.
