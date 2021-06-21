@@ -14,3 +14,54 @@ Comentarios del Sponsor:
 - El tiempo límite para realizar la aplicación y las adquisiciones es de 4/5 meses.
 - El alcance del proyecto NO podrá variar. Todo lo solicitado debe estar incluido.
 - La seguridad de los datos es muy importante para el Ministerio de Trabajo.
+
+
+---------------------------------------------
+
+A fin de aumentar la efectividad y el impacto de las inspecciones sobre el trabajo no registrado, el MTEySS ha lanzado un Plan Nacional de Regularización del Trabajo (PNRT), con la finalidad de verificar la debida registración de los trabajadores por parte de sus empleadores y sancionar los incumplimientos detectados.
+
+---------------------------------------------------------------------
+
+Comentarios del Sponsor:
+- El tiempo límite para realizar la aplicación y las adquisiciones es de 4/5 meses.
+- El alcance del proyecto NO podrá variar. Todo lo solicitado debe estar incluido.
+- La seguridad de los datos es muy importante para el Ministerio de Trabajo.
+
+Ejemplo Alcance: donde estoy parado (una situación actual) y que es lo que necesitamos
+Estilo enunciado del alcance (parecido).
+Ejemplo: estamos en tal área de la organización, y tenemos una falencia de tales características, que nos está generando perdidas y creemos que lo que necesitamos es un software con tales características que nos ayude a tener un control de esto para mermar esas pérdidas.
+ 
+Objetivo: construir un software de ciertas características para satisfacer que dejemos de perder plata en esto. (frase cortita que se entienda).
+ 
+Limites: limitantes. Cosas que quiero dejar claro y marcar la cancha. Que delimitan que si voy a hacer y que no.
+Ej.
+Limitantes del proyecto: las siguientes cosas son partes del proyecto:
+•	Construir el software
+•	Entregarlo llave en mano
+Que cosas no incluye este proyecto:
+•	Poner los recursos hardware, la empresa me los tiene que dar.
+•	Garantizar la derogación de dinero en cada una de las etapas del proyecto.
+•	Compra de licencia de software en la nube.
+ 
+Alcance: (enunciado del alcance) te cuento un cuentito de que voy a  hacer para cumplir ese objetivo. Vamos a hacer un proyecto de tales características, vamos a iniciarlo así, vamos a conseguir un equipo, vamos a planearlo de esta manera, vamos a usar este ciclo de vida, vamos a construir estas características de esta manera y vamos a dejar un producto terminado con tales características que ahora más adelante en el alcance del producto te lo describo.
+
+https://www.argentina.gob.ar/trabajo/fiscalizacion/pasoapaso
+
+Seguridad de los datos: cuando hagamos nuestra gestion 
+De calidad, hacer foco en tareas de calidad, pruebas de
+Calidad para asegurar y contemplar este punto de
+Fiabilidad de los datos - pruebas, ISO, cmmi, o como 
+Hicimos para garantizar la seguridad del producto.
+	- De 5 a 10 inspectore por delegacion -> hacer
+	Los calculos del gasto en netbooks. 1 netbook - 
+1 inspector.
+
+
+---------------------------------------------------------------------
+
+http://trabajo.gob.ar/downloads/inspeccion/2017_guia_de_inspectores.pdf
+http://www.trabajo.gob.ar/downloads/otros/130529_libro_sobre_inspeccion_Libro.pdf
+https://www.trabajo.gba.gov.ar/index.php/institucional-ministerio/preguntas-frecuentes
+https://www.argentina.gob.ar/trabajo/fiscalizacion
+http://trabajo.gob.ar/estadisticas/
+
